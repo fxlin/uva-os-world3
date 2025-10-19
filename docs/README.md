@@ -1,5 +1,5 @@
 # UVA-OS Lab3 "Minimal User" 
-## To UVA students: the code will be available after the submission opens
+## To UVA students: the kernel code will be available after the submission opens
 
 This is one part of the UVA-OS class (CS4414/CS6456). 
 
